@@ -1,5 +1,7 @@
 EFI file for macOS Sequoia on Surface Laptop 3 (mine is i7 13.5").
 
+Based on the great work done by jc-bao [here](https://github.com/jc-bao/surface-laptop3-macos).
+
 No need to downgrade firmware, should work out of the box with OpenCore.
 
 You'll need to input your own SMBIOS :)
