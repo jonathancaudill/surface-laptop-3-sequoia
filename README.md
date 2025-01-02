@@ -6,4 +6,4 @@ No need to downgrade firmware, should work out of the box with OpenCore. Just re
 
 You'll need to input your own SMBIOS :)
 
-Happy hacking, and feel free to DM or post an issue with any questions!
+Happy hacking, and feel free to post an issue with any questions! The Hackintosh subreddit is also helpful, but a little gatekeep-y, so be warned about asking questions on there.
