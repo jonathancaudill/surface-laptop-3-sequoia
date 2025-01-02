@@ -1,4 +1,4 @@
-EFI file for macOS Sequoia on Surface Laptop 3 (mine is i7 13.5").
+EFI file for macOS Sequoia 15.1.1 on Surface Laptop 3 (mine is i7 13.5").
 
 Based on the great work done by jc-bao [here](https://github.com/jc-bao/surface-laptop3-macos).
 
